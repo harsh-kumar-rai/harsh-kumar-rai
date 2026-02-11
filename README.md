@@ -89,12 +89,6 @@ A command-line tool for tracking Data Structures & Algorithms practice.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harsh-kumar-rai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-kumar-rai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-kumar-rai&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 
 </div>
