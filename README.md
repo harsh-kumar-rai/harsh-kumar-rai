@@ -119,7 +119,6 @@ I'm always open to collaborating on interesting projects and ideas.
 Feel free to reach out — let's build something awesome together! 🚀
 
 [![Email](https://img.shields.io/badge/harshkumarrai9936@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshkumarrai9936@gmail.com)
-[![Phone](https://img.shields.io/badge/+91_9305249212-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919305249212)
 
 ---
 
